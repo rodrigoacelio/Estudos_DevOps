@@ -1,9 +1,9 @@
 # Estudos DevOps
 Este repositório contém meus estudos relacionados a DevOps, incluindo práticas com:
 
-- [Ansible](ansible/)
-- [Docker](docker/)
-- [Terraform](terraform/)
-- [Vagrant](vagrant/)
+- [Ansible]
+- [Docker]
+- [Terraform]
+- [Vagrant]
 
 Cada pasta contém exemplos, projetos e exercícios realizados durante meu aprendizado.
