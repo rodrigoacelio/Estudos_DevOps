@@ -1,6 +1,7 @@
 # Estudos DevOps
 Este repositório contém meus estudos relacionados a DevOps, incluindo práticas com:
 
+- [Linux]
 - [Ansible]
 - [Docker]
 - [Terraform]
