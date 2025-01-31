@@ -1,9 +1,11 @@
-# Estudos DevOps
-Este repositório contém meus estudos relacionados a DevOps, incluindo práticas com:
+# Estudos DevOps e Cloud
+Este repositório contém meus estudos relacionados a DevOps e Cloud, incluindo práticas com:
 
-- [Linux]
 - [Ansible]
+- [Cloud]
 - [Docker]
+- [Kubernetes]
+- [Linux]
 - [Terraform]
 - [Vagrant]
 
